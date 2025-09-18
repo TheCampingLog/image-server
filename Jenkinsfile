@@ -1,6 +1,9 @@
 pipeline {
     agent any
 
+    tools {
+        nodejs 'nodejs-22.16.0'
+    }
 
     environment {
         // 환경 변수 설정
