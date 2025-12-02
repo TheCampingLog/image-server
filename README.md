@@ -5,7 +5,7 @@
 ### 🎨 FRONTEND
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Express](https://img.shields.io/badge/Express-FFFFFF?style=flat-square&Node-js&logo=express&logoColor=black)![버전](https://img.shields.io/badge/22.16.0-555555?style=flat-square)
+![Express](https://img.shields.io/badge/Express-FFB441?style=flat-square&Node-js&logo=express&logoColor=black)![버전](https://img.shields.io/badge/22.16.0-555555?style=flat-square)
 
 ### 🛠️ 개발 도구
 
