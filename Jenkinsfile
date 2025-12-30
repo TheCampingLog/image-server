@@ -61,7 +61,7 @@ pipeline {
                     if (fileExists("${ENV_FILE}")) {
                         echo "✅ ${ENV_FILE} 파일이 존재합니다."
                     } else {
-                        echo "⚠️ ${ENV_FILE} 파일이 없습니다."
+                        error "⚠️ ${ENV_FILE} 파일이 없습니다."
                     }
 
                 }
